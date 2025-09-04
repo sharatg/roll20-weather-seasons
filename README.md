@@ -1,4 +1,4 @@
-# Faerûn Calendar for Roll20 (Seasons!)
+# Faerûn Calendar for Roll20 (Weather!)
 
 ## Overview
 
